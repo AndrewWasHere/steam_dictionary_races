@@ -11,16 +11,17 @@ Here are the rules:
 
 1. Dictionaries start closed, on the table.
 2. I (or your teacher, if you play this game again) open my dictionary to a
-random page, choose a word, and say it out loud.
+   random page, choose a word, and say it out loud.
 3. Once we've verified everyone knows the word, I will say "Ready? Go!"
-and the players find the word as quickly as possible. When you find the word, 
-raise your hand, and say "got it", or the equivalent to get my attention.
-4. When you're called on, say the page number that the word is on, say the
-word, spell the word, and read the first definition. If you are correct, you 
-get a point. If you are incorrect, play resumes, and the next person to raise 
-their hand gets a chance.
+   and the players find the word as quickly as possible. When you find the 
+   word, raise your hand, and say "got it", or the equivalent, to get my 
+   attention.
+4. When you're called on, say the word, say the page number that the word is 
+   on, spell the word, and read the first definition. If you are correct, you 
+   get a point. If you are incorrect, play resumes, and the next person to 
+   raise their hand gets a chance.
 5. Once the correct word and definition are found, dictionaries are closed,
-and we play again.
+   and we play again.
 
 Shall we give it a try?
 
