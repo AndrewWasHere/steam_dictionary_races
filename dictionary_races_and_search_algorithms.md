@@ -16,9 +16,9 @@ random page, choose a word, and say it out loud.
 and the players find the word as quickly as possible. When you find the word, 
 raise your hand, and say "got it", or the equivalent to get my attention.
 4. When you're called on, say the page number that the word is on, say the
-word, and read the first definition. If you are correct, you get a point.
-If you are incorrect, the second person to raise their hand gets a chance.
-(So don't stop looking for the word if someone raises their hand before you).
+word, spell the word, and read the first definition. If you are correct, you 
+get a point. If you are incorrect, play resumes, and the next person to raise 
+their hand gets a chance.
 5. Once the correct word and definition are found, dictionaries are closed,
 and we play again.
 
@@ -30,7 +30,8 @@ Shall we give it a try?
 
 The process you follow to find the word in the dictionary is called an 
 algorithm. More specifically, a search algorithm. One of the things computer
-scientists do is design algorithms to search as quickly as possible.
+scientists do is design algorithms to do things (like search) as quickly as 
+possible.
 
 For example, suppose I was searching for a specific card in a deck. To make
 things easier, let's limit ourselves to cards of the same suit, so there's only
