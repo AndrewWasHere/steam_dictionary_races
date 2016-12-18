@@ -41,3 +41,9 @@ on. I don't think it made much difference.
 
 In the end, the project-based activities seem to go over with the students
 better.
+
+## License
+
+This work is licensed under the Creative Commons Attribution-NonCommercial
+4.0 International License (CC-BY-NC 4.0). See 
+https://creativecommons.org/licenses/by-nc/4.0/ for more information.
